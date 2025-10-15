@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariplayz
-- 👀 I’m interested in UI and web development with Avalonia and DotNetNuke
-- 🌱 I’m currently learning CSS, C#, XAML, and JS/HTML.
+- 👀 I’m interested in Desktop and Mobile development in C#, Java, and Swift.
+- 🌱 I’m currently learning Java and Swift.
 - 💞️ I’m looking to collaborate on basically anything!
 - 📫 How to reach me: (914) 270-8351 or ari@aricummings.com
 - 😄 Pronouns: he/him
