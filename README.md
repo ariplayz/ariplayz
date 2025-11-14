@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariplayz
-- 👀 I’m interested in Desktop and Mobile development in C#, Java, and Swift.
-- 🌱 I’m currently learning Java and Swift.
+- 👀 I’m interested in Desktop and Web development in C#, C++, and Java.
+- 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on basically anything!
 - 📫 How to reach me: (914) 270-8351 or ari@aricummings.com
 - 😄 Pronouns: he/him
