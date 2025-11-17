@@ -5,6 +5,8 @@
 - 📫 How to reach me: (914) 270-8351 or ari@aricummings.com
 - 😄 Pronouns: he/him
 
+![](https://raw.githubusercontent.com/ariplayz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ariplayz/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ariplayz&show_icons=true&theme=transparent&hide_border=true" alt="Rabbitism's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariplayz&layout=compact&theme=buefy&hide_border=true&hide=javascript,html,r" /></a> |
-| ------------- | ------------- |
+![](https://raw.githubusercontent.com/ariplayz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ariplayz/github-stats/master/generated/languages.svg#gh-light-mode-only)
