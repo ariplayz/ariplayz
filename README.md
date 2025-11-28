@@ -1,3 +1,6 @@
+# THIS ACCOUNT IS FOR ARCHIVE PURPOSES, AS I NOW USE GITLAB SELF-HOST.
+My gitlab self-host: https://gitlab.delphigamerz.xyz/ariplayz
+
 - 👋 Hi, I’m @ariplayz
 - 👀 I’m interested in Desktop and Web development in C#, C++, and Java.
 - 🌱 I’m currently learning C++ and Java.
