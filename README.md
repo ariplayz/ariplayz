@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariplayz
-- 👀 I’m interested in Desktop and Web development in C#, C++, and Java.
-- 🌱 I’m currently learning C++ and Java.
+- 👀 I’m interested in low level OS development with C++ and GNU-efi.
+- 🌱 I’m currently learning C++ and Rust.
 - 💞️ I’m looking to collaborate on basically anything!
 - 📫 How to reach me: (914) 270-8351 or ari@aricummings.com
 - 😄 Pronouns: he/him
