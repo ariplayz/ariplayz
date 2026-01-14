@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ariplayz
+- 👋 Hi, I’m Ari Cummings
 - 👀 I’m interested in low level OS development with C++ and GNU-efi.
 - 🌱 I’m currently learning C++ and Rust.
 - 💞️ I’m looking to collaborate on basically anything!
