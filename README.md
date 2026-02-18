@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ari Cummings
-- 👀 I’m interested in Cybersecurity and PenTesting.
+- 👀 I’m interested in Cybersecurity, PenTesting, and cloud infrastructure.
 - 🌱 I’m currently learning C++ and Rust.
 - 💞️ I’m looking to collaborate on basically anything!
 - 📫 How to reach me: (914) 270-8351 or ari@aricummings.com
