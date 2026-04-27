@@ -9,10 +9,12 @@
 ## 📙 Top of my open source projects
 
 <p>
-  <a href="https://github.com/ariplayz/UDTool"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=UDTool&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/ariplayz/KeyLogger"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=KeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm.io"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm.io&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm-fullstack"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-fullstack&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/ariplayz/Drive-By"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=Drive-By&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/ariplayz/RustKeyLogger"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=RustKeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/ariplayz/UDTool"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=UDTool&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/ariplayz/KeyLogger"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=KeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
 </p>
 
 <p>
